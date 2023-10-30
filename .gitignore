@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.swn
+*.o
+*.so
+a.out
+core
+.gdb_history
