@@ -1,6 +1,7 @@
 #ifndef V_HASH_H
 #define V_HASH_H
 #include <stdint.h>
+#include <stddef.h>
 
 #if __cplusplus
 extern "C" {
